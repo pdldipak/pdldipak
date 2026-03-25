@@ -1,9 +1,4 @@
-# Dipak Poudel
 
-#### Senior Frontend Developer | Product-minded | MSc Management & Data Science
-
-📍 Stockholm, Sweden
-📧 [pdl.dipak@gmail.com](mailto:pdl.dipak@gmail.com)
 
 ## 💫 About Me:
 Senior Software Developer with 5+ years of experience in frontend and iGaming platform development, specializing in <br>React, Vue and modern JavaScript. Strong product mindset with experience integrating complex services and building scalable, <br>user-focused applications. Currently exploring AI and data-driven development.
