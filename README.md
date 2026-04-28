@@ -1,7 +1,7 @@
 
 
 ## 💫 About Me:
-Senior Software Developer with 5+ years of experience in frontend and iGaming platform development, specializing in <br>React, Vue and modern JavaScript. Strong product mindset with experience integrating complex services and building scalable, <br>user-focused applications. Currently exploring AI and data-driven development.
+Senior Software Developer with 6+ years of experience in frontend and iGaming platform development, specializing in <br>React, Vue and modern JavaScript. Strong product mindset with experience integrating complex services and building scalable, <br>user-focused applications. Currently exploring AI and data-driven development.
 
 
 ## 🌐 Socials:
